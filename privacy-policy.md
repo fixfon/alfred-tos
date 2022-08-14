@@ -178,10 +178,10 @@ We implement a variety of security measures in accordance with industry standard
 We reserve the right to make changes to this Privacy Statement at any time. If we decide to change our Privacy Statement, we will post the updated version here. Because we reserve the right to make changes at any time without prior notice, we recommend that you review this Privacy Policy on a regular basis. Please keep in mind that our rights to use your personally identifiable information are subject to the privacy policies in effect at the time the information is used.
 
 ### Updating Your Information
-You can review, change, and/or correct the personally identifiable information you provide us by reaching us from our (Discord Support Server)[https://discord.gg/invite/t5z9CdSuqe]. If you are a registered user, you can also review, change, or correct your personal information by clicking here at any time. You may request that your account be deactivated by reaching out us.
+You can review, change, and/or correct the personally identifiable information you provide us by reaching us from our [Discord Support Server](https://discord.gg/invite/t5z9CdSuqe). If you are a registered user, you can also review, change, or correct your personal information by clicking here at any time. You may request that your account be deactivated by reaching out us.
 
 ### Choice/Opt-Out
-When you register at the Site or otherwise provide your contact information to us you have the option to opt out of receiving future Opt-In Communications from us. You can change your preferences at any time by editing your profile. By clicking the "unsubscribe" link at the bottom of any e-mail Opt-In Communication you receive from us and following the instructions, or by reaching us by clicking (here)[https://discord.gg/invite/t5z9CdSuqe].
+When you register at the Site or otherwise provide your contact information to us you have the option to opt out of receiving future Opt-In Communications from us. You can change your preferences at any time by editing your profile. By clicking the "unsubscribe" link at the bottom of any e-mail Opt-In Communication you receive from us and following the instructions, or by reaching us by clicking [here](https://discord.gg/invite/t5z9CdSuqe).
 
 Comments
-The customers can reach out to us via (Discord Support Server)[https://discord.gg/invite/t5z9CdSuqe].
+The customers can reach out to us via [Discord Support Server](https://discord.gg/invite/t5z9CdSuqe).
