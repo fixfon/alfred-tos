@@ -160,28 +160,28 @@ We may hire other companies and individuals to perform functions on our behalf t
 ### Special Events
 If you choose to participate in any of our Site's promotions, sweepstakes, surveys, questionnaires, or other events, the rules or terms and conditions for those events may state that your personally identifiable information will be shared with third parties. By choosing to participate in such events and submitting your personally identifiable information, you consent to the disclosure of your personally identifiable information to such third parties.
 
-10. BUSINESS TRANSFERS
+## Buesiness Transfers
 We may sell some of our assets as we continue to grow our business. User information, including personally identifiable information, is typically one of the transferred business assets in such transactions, and by submitting your personal information on the Site, you agree that your data may be transferred to such parties in such circumstances.
 
-USE OF AGGREGATE INFORMATION
+### Use of Aggregate Information
 We may use the information you provide in aggregate (non-personally identifiable) form for internal business purposes, such as generating statistics and developing marketing plans. We may collect, store, or accumulate certain non-personally identifiable information concerning your use of the Site, such as information regarding which of our pages are most popular. We may share or transfer non-personally identifiable information with or to our affiliates, licensees, and partners.
 
-CHILDREN UNDER 13
+### Children Under 13
 We take extra precautions to protect children's privacy. You may browse our Site if you are under the age of 13. You must not, however, provide us with any personal information. You cannot, for example, register or make a purchase. This Site is not intended for children, and we do not knowingly collect personally identifiable information from children under the age of thirteen.
 
-LINKS
+### Links
 Other websites may be linked to or from the Site. Please be aware that we are not responsible for the privacy practices of third-party websites, including, but not limited to, Facebook. This Privacy Policy only applies to information collected on the Site. We encourage you to read the privacy policies of any other websites to which you may link from the Site or otherwise go. ten. safety
 
 We implement a variety of security measures in accordance with industry standards to protect the security of your personal information both online and offline. Please contact us via email if you have any concerns about the Site's security.
 
-NOTIFICATION OF CHANGES
+### Notication of Changes
 We reserve the right to make changes to this Privacy Statement at any time. If we decide to change our Privacy Statement, we will post the updated version here. Because we reserve the right to make changes at any time without prior notice, we recommend that you review this Privacy Policy on a regular basis. Please keep in mind that our rights to use your personally identifiable information are subject to the privacy policies in effect at the time the information is used.
 
-UPDATING YOUR INFORMATION
-You can review, change, and/or correct the personally identifiable information you provide us by sending an email to support@discortics.com. If you are a registered user, you can also review, change, or correct your personal information by clicking here at any time. You may request that your account be deactivated by emailing us at (customer care email).
+### Updating Your Information
+You can review, change, and/or correct the personally identifiable information you provide us by reaching us from our (Discord Support Server)[https://discord.gg/invite/t5z9CdSuqe]. If you are a registered user, you can also review, change, or correct your personal information by clicking here at any time. You may request that your account be deactivated by reaching out us.
 
-Choice/Opt-Out
-When you register at the Site or otherwise provide your contact information to support@discortics.com you have the option to opt out of receiving future Opt-In Communications from support@discortics.com. You can change your preferences at any time by editing your profile, which you can do by clicking here. By clicking the "unsubscribe" link at the bottom of any e-mail Opt-In Communication you receive from support@discortics.com and following the instructions, or by e-mailing us by clicking here.
+### Choice/Opt-Out
+When you register at the Site or otherwise provide your contact information to us you have the option to opt out of receiving future Opt-In Communications from us. You can change your preferences at any time by editing your profile. By clicking the "unsubscribe" link at the bottom of any e-mail Opt-In Communication you receive from us and following the instructions, or by reaching us by clicking (here)[https://discord.gg/invite/t5z9CdSuqe].
 
 Comments
-The customers can either reach out to us via our email suppomail or contact our support team available in our Discord server suupportlink
+The customers can reach out to us via (Discord Support Server)[https://discord.gg/invite/t5z9CdSuqe].
